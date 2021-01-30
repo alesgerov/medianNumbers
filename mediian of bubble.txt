@@ -1,0 +1,15 @@
+Median of numbers
+In the set of distinct numbers, the median is an element m such that the number of elements greater than m is equal to the number of elements smaller than m. For example, in a set {1, 4, 2, 5, 7} the median is 4 because two elements (5 and 7) are greater than 4 and 2 elements (1 and 2) smaller than 4. The set {1, 5, 8, 3} has no median because no element from it satisfies the definition above.
+
+Input
+
+In one line n (n ≤ 1000) different positive integers are given, each of them is not greater than 1000.
+
+Output
+
+Print the median of given numbers. If the median does not exist, print -1.
+
+Input example #1
+1 4 2 5 7
+Output example #1
+4
